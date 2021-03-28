@@ -4,7 +4,7 @@ Program Quiz Sederhana dengan Bahasa Java
 Program Quiz Sederhana
 Sebuah program Quiz Sederhana yang menggunakan konsep object oriented program. Program ini menggunakan bahasa java dan dibuat melalui IDE yang bernama Intellij IDEA. Untuk menggunakan program ini, ikuti langkah-langkah berikut ini :
 
-1. Download semua file yang ada di repository QuizSederhana.
+1. Download semua file yang ada di repository QuizSederhana "Pada Branches Master"
 2. Masukkan semua file yang sudah di download ke dalam satu folder dengan nama bebas.
 3. Install Intellij IDEA di device anda.
 4. Buka Intellij IDEA.
